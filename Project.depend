@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575045572 source:e:\opengl with c & c++\project\village scenario with moving particles.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<MMSystem.h>
+
